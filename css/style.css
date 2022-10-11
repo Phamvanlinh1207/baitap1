@@ -1,0 +1,40 @@
+body{
+    background: rgb(212, 222, 236);
+}
+main .image_avt img{
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 10px;
+    border-radius: 15%;
+}
+main .image_avt h4{
+    margin-bottom: 80px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(243, 218, 218);
+    font-weight: bold;
+    border-radius: 20%;
+    color: rgb(174, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+main .image_avt{
+    background: rgb(81, 96, 254);
+}
+main .content{
+    background: rgb(212, 222, 236);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+main .content h3{
+    font-weight: bold;
+    padding: 4px;
+    margin-top: 50px;  
+    background-color: rgb(223, 94, 94);  
+    margin-right: 250px;
+    border-radius: 0% 50% 0% 0%;
+    color: aliceblue;
+}
+main .content a{
+    text-decoration: none;
+    color: black;
+}
