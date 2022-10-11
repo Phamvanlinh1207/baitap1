@@ -21,11 +21,11 @@ main .image_avt{
     background: rgb(81, 96, 254);
 }
 main .content{
-    background: rgb(212, 222, 236);
+    background: rgb(202, 211, 234);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
 }
 main .content h3{
+    margin-left: 20px;
     font-weight: bold;
     padding: 4px;
     margin-top: 50px;  
@@ -37,4 +37,11 @@ main .content h3{
 main .content a{
     text-decoration: none;
     color: black;
+}
+
+main .content .gioi_thieu{
+    margin-left: 20px;
+}
+main .content .lien_he{
+    margin-left: 20px;
 }
